@@ -1,0 +1,11 @@
+C:\Learning_Plan\Practices\CSharp_SpecflowSelenium\ShoppingFunctions\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Learning_Plan\Practices\CSharp_SpecflowSelenium\ShoppingFunctions\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Learning_Plan\Practices\CSharp_SpecflowSelenium\ShoppingFunctions\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Learning_Plan\Practices\CSharp_SpecflowSelenium\ShoppingFunctions\bin\Debug\ShoppingFunctions.exe.config
+C:\Learning_Plan\Practices\CSharp_SpecflowSelenium\ShoppingFunctions\bin\Debug\ShoppingFunctions.exe
+C:\Learning_Plan\Practices\CSharp_SpecflowSelenium\ShoppingFunctions\bin\Debug\ShoppingFunctions.pdb
+C:\Learning_Plan\Practices\CSharp_SpecflowSelenium\ShoppingFunctions\bin\Debug\WebDriver.dll
+C:\Learning_Plan\Practices\CSharp_SpecflowSelenium\ShoppingFunctions\obj\Debug\ShoppingFunctions.csproj.CoreCompileInputs.cache
+C:\Learning_Plan\Practices\CSharp_SpecflowSelenium\ShoppingFunctions\obj\Debug\ShoppingFunctions.csproj.CopyComplete
+C:\Learning_Plan\Practices\CSharp_SpecflowSelenium\ShoppingFunctions\obj\Debug\ShoppingFunctions.exe
+C:\Learning_Plan\Practices\CSharp_SpecflowSelenium\ShoppingFunctions\obj\Debug\ShoppingFunctions.pdb
